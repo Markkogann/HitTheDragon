@@ -20,12 +20,19 @@ img {
 
   #title {
       background: yellow;
- 		width: 675px;
+ 		width: 675px; 
+ 		padding-left: 10px;
+ 		padding-bottom: 15px;
+ 		border-radius: 10px;
  }
 
 #main {
 	background: pink;
 		width: 700px;
+		padding: 15px;
+		margin-top: 15px;
+		margin-left: 5px;
+		border-radius: 10px;
 }
 
 #main p {
